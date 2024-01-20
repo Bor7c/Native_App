@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FFS",
+    "slug": "FFS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Default.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Default.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Default.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Default.png"
+    }
+  }
+}
